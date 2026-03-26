@@ -27,3 +27,6 @@ dev-dist
 html
 meta*.json
 .claude
+.cgc_home/
+repomix-*.txt
+repomix-output.xml
